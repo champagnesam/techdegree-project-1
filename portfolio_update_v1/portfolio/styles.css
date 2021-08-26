@@ -9,7 +9,7 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   color: #222;
-  background: #f7f5f0;
+  background: #0f0c05;
 }
 /* Link Styles */
 
@@ -69,8 +69,8 @@ header .profile-image {
   margin-top: 50px;
   width: 150px;
   height: 150px;
-  border-radius: 50%;
-  border: 3px solid white;
+  border-radius: 40%;
+  border: 3px outset beige;
   transition: all .5s;
 }
 header .profile-image:hover {
@@ -89,8 +89,8 @@ header .profile-image:hover {
   color: yellow;
 }
 .description{
-  background-color: aliceblue;
-  color:bisque
+  background-color: #222;
+  color:yellow;
 }
 .card {
   margin: 30px;
